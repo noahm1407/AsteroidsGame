@@ -35,7 +35,7 @@ if(key == 'a')
 isRotatingLeft = true;
 if(key == 'd')
 isRotatingRight = true;
-if(key == TAB)
+if(key == 'h')
 bob.hyperspace();
 if(key == 's')
 bob.decelerate();
