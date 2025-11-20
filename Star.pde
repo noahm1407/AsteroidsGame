@@ -12,8 +12,8 @@ class Star //note that this class does NOT extend Floater
   protected float halfAngle;
   
   Star(){
-  x = (int)(Math.random()*500);
-  y = (int)(Math.random()*500);
+  x = (int)(Math.random()*800);
+  y = (int)(Math.random()*600);
   radius1 = 2;
   radius2 = 6;
   npoints = 5;
